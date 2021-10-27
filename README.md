@@ -1,3 +1,9 @@
+All tests passed.
+
+#### Try it out!
+
+If you want to try the converter, open [this link on Replit](https://replit.com/@EFEA/EFE-polygon-area-calculator#shape_calculator.py).
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
